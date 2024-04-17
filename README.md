@@ -24,11 +24,13 @@
 
 #### My Projects
 <a href="https://github.com/HersalAlfaro/Web-Salon-Beauty">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HersalAlfaro&repo=Web-Salon-Beauty&theme=onedark" />
-</a>    
-<a href="https://github.com/HersalAlfaro/Shop-WearX">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HersalAlfaro&repo=Shop-WearX&theme=onedark"/>
+  <img align="center" height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=HersalAlfaro&repo=Web-Salon-Beauty&hide_progress=true&theme=dark" />
 </a>
+
+<a href="https://github.com/HersalAlfaro/Shop-WearX">
+  <img align="center" height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=HersalAlfaro&repo=Shop-WearX&theme=dark&hide_progress=true&hide_progress=true" />
+</a>
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
