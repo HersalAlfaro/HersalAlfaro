@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/HersalAlfaro">Hersal Alfaro</a> Profile 👋</h1>
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+junior+full-stack+developer;+I+am+a+junior+programmer;I+really+like+python+and+PHP" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+junior+full-stack+developer;+I+am+a+junior+programmer;I+really+like+python+and+PHP" alt="Typing SVG" /></a>
 </p>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
